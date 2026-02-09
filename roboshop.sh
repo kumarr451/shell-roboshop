@@ -2,8 +2,8 @@
 
 SG_ID="sg-0bf9b6878207b1aac" # replace with your ID
 AMI_ID="ami-0220d79f3f480ecf5"
-ZONE_ID="Z05013202FKF0ZL12WAOP"
-DOMAIN_NAME="daws88s.online"
+ZONE_ID="Z01148391Z3RQPVJH9HKB"
+DOMAIN_NAME="devopsworld.site"
 
 for instance in $@
 do
